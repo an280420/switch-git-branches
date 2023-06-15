@@ -3,8 +3,7 @@ Branch switcher script for multiple repositories in the same directory
 
 ## Prepare
 
-Download switch_brahches.rb file to directory with multiple repositories
-Example:
+Download the switch_brahches.rb file to a multi-repository directory.
 ```
 |- plugins/
     |- plugin1/
@@ -14,7 +13,7 @@ Example:
 ```
 
 ## Run
-Run script with parameter 'dev' or 'master'
+Run the script with the'dev' or 'master' parameter.
 ```
 $ switch_branches.rb dev
 ```
